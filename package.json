@@ -1,0 +1,22 @@
+{
+  "name": "Redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "pg": "^8.3.0",
+    "redis": "^3.0.2",
+    "sequelize": "^6.3.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
