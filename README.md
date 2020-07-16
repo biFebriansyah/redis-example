@@ -20,7 +20,7 @@ REDISHOST = YOURE-REDIS-HOST-HERE  <-- (1)
 REDISTPASS = YOURE-REDIS-PASS-HERE <-- (2)
 ```
 
-2. run app with node packge manager ([npm](https://classic.yarnpkg.com/en/docs/install/#debian-stable))
+2. run app with node packge manager ([npm](https://www.npmjs.com/package/download))
 
 ```sh
 npm start
